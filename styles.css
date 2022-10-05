@@ -1,0 +1,42 @@
+/* STYLES */
+
+body {
+    background: pink;
+    color:teal;
+    font-family:Josefin Sans;}
+
+main{   max-width: 800px;
+        margin: 0 auto;}
+
+h1{ font-size: 50px;
+    font-family:Pirata One;
+    color:white;
+    text-align: center;
+    background-color: teal;
+    padding: 10px;
+    border: 10px solid white;}
+
+h2{ font-size: 28px;
+    font-family: Pirata One;
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+    }
+
+h3{ font-size: 26px;
+    font-family:Pirata One;
+    margin-top: 40px;
+    margin-bottom: 12px;}
+
+h4{ font-size: 24px;
+    font-family:Pirata One;
+    margin-top: 60px;
+    margin-bottom: 12px;}
+
+p { line-height: 20px;}
+
+ul {list-style:square;
+    line-height: 40px;}
+
+:any-link{  color: inherit;}
+
+a:hover { color: white}
